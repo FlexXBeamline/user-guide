@@ -1,5 +1,5 @@
 Acknowledgments
-=====
+===============
 
 Acknowledging work done at FlexX:
 
