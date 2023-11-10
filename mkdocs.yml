@@ -1,0 +1,5 @@
+site_name: FlexX User Guide
+nav:
+  - Home: index.md
+  - Acknowledgments: ack.md
+theme: readthedocs
