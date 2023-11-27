@@ -2,4 +2,7 @@ site_name: FlexX User Guide
 nav:
   - Home: index.md
   - Acknowledgments: ack.md
-theme: material
+theme: 
+  name: material
+  palette: 
+    scheme: slate
