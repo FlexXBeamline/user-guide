@@ -3,5 +3,6 @@ nav:
   - Home: index.md
   - Acknowledgments: ack.md
 theme: material
+theme:
   palette:
     scheme: slate
